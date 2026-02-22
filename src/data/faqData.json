@@ -1,0 +1,34 @@
+[
+  {
+    "question": "When can I register for a trek?",
+    "answer": "Registration opens exactly one month (30 days) before the trek date and closes one week (7 days) before the excursion.\n\nExample: For a trek on April 15th:\n• Registration opens: March 16th\n• Registration closes: April 8th\n• Trek takes place: April 15th\n\nEarly registration is recommended as spots may fill up quickly!"
+  },
+  {
+    "question": "Who can join a trek?",
+    "answer": "Any registered user can join a trek while registrations are open, provided they meet any specific requirements for that particular trek.\n\nRequirements:\n• Must have a valid account on our platform\n• Must be at least 18 years old (or accompanied by an adult)\n• Must accept our safety terms and conditions\n• Some treks may have specific fitness requirements\n\nChildren under 14 must be accompanied by a responsible adult. Please check individual trek descriptions for age restrictions."
+  },
+  {
+    "question": "How does the 0–5 rating system work?",
+    "answer": "Our difficulty rating system is based on terrain, distance, elevation gain, and technical challenges.\n\n0 → Unknown/Unrated: New route not yet evaluated\n1 → Very Easy: Flat terrain, short distance (1-3km), suitable for everyone including children\n2 → Easy: Gentle slopes, moderate distance (3-6km), minimal elevation gain\n3 → Moderate: Some steep sections, 6-10km, requires basic fitness level\n4 → Demanding: Steep inclines, 10-15km, significant elevation, requires good fitness\n5 → Very Difficult: Technical terrain, 15+km, high elevation, for experienced hikers only\n\n💡 Beginner tip: Start with 1-2 rated treks and work your way up!"
+  },
+  {
+    "question": "Can I add images to my comment?",
+    "answer": "Yes! Users may upload images with their comments to share their experience visually.\n\nImage Guidelines:\n• Maximum file size: 5MB per image\n• Supported formats: JPG, PNG\n• Maximum 3 images per comment\n• Images should be relevant to the trek experience\n• No inappropriate or copyrighted content\n\nImages are automatically resized for optimal display. They help future trekkers get a better sense of what to expect!\n\n📸 Pro tip: Capture trail conditions, viewpoints, and interesting flora/fauna!"
+  },
+  {
+    "question": "Can I filter treks by island?",
+    "answer": "Yes! Our comprehensive filtering system allows you to find treks based on multiple criteria.\n\n• By Island\n• By Difficulty (1-5 rating)\n• By Municipality\n• By Average Rating\n\nYou can combine multiple filters to find the perfect trek for your preferences and skill level."
+  },
+  {
+    "question": "Are the treks suitable for beginners?",
+    "answer": "Absolutely! We offer treks for all experience levels, from complete beginners to seasoned hikers.\n\nFor Beginners (Rating 1-2):\n• Well-marked trails with minimal obstacles\n• Short to medium distances (1-6km)\n• Gentle elevation changes\n• Frequent rest stops\n• Experienced guides who provide basic hiking tips\n\nWhat to Bring as a Beginner:\n• Comfortable walking shoes or hiking boots\n• At least 1 liter of water per person\n• Sun protection (hat, sunscreen, sunglasses)\n• Light snack or energy bars\n• Weather-appropriate clothing (layers recommended)\n• Small backpack to carry your essentials\n\nOur guides are trained to adjust the pace to accommodate all participants. Don't hesitate to communicate any concerns!\n\n👣 New to hiking? Join our 'First Trek' workshops held monthly!"
+  },
+  {
+    "question": "What happens if the weather is bad?",
+    "answer": "Safety first! Treks may be rescheduled or cancelled due to inclement weather.\n\nWeather Policy:\n• Decisions are made 24 hours before the trek\n• All registered participants receive email/SMS notifications\n• Rescheduled treks maintain your registration automatically\n• Full refunds available for cancelled treks if rescheduling isn't possible\n\n☔ We monitor multiple weather sources including AEMET and local mountain forecasts."
+  },
+  {
+    "question": "Can I cancel my registration?",
+    "answer": "Yes, you can cancel your registration any time without any penalty applied.\n\nBut please act wisely; we plan our treks and assign guides depending on how many people will attend."
+  }
+]

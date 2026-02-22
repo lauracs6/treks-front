@@ -1,0 +1,32 @@
+[
+  {
+    "image": "./images/user04.png",
+    "name": "Laura, Mallorca",
+    "text": "BalearTrek helped me discover routes in Mallorca that I would have never found on my own. The information was clear and the views were absolutely stunning."
+  },
+  {
+    "image": "./images/user01.png",
+    "name": "James, United Kingdom",
+    "text": "I used BalearTrek during my trip to Menorca and it completely changed the way I explored the island. The trails were well explained and easy to follow."
+  },
+  {
+    "image": "./images/user02.png",
+    "name": "Marta, Barcelona",
+    "text": "As a beginner hiker, I felt confident choosing routes thanks to the difficulty ratings and tips. BalearTrek is now my go-to trekking platform."
+  },
+  {
+    "image": "./images/user03.png",
+    "name": "Daniel, Germany",
+    "text": "The combination of nature, history, and local knowledge makes this website special. I loved discovering hidden paths in Ibiza."
+  },
+  {
+    "image": "./images/user06.png",
+    "name": "Sophie, France",
+    "text": "BalearTrek made our family holiday unforgettable! The routes are beautiful and suitable for all ages. Highly recommend for anyone visiting the islands."
+  },
+  {
+    "image": "./images/user05.png",
+    "name": "Marco, Italy",
+    "text": "I loved the insider tips on hidden coves and trails. BalearTrek is perfect for those who want a mix of adventure and culture in the Balearic Islands."
+  }
+]

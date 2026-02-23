@@ -37,13 +37,24 @@ export default function App() {
     fetchTreks();
   }, []);
 
+  console.log(treks);
+
   return (
     <div className="bg-gray-50 text-gray-900 font-sans min-h-screen flex flex-col">
       <Navigation />
       <main className="flex-grow">
         <Routes>
           <Route path="/" element={<Landing treks={treks} />} />
-          <Route path="/about" element={<About />} />
+          <Route
+            path="/about"
+            element={
+              <About
+                trekImages={treks.map(
+                  (trek) => `/images/${trek.regNumber}.jpg`,
+                )}
+              />
+            }
+          />
           <Route path="/contact" element={<Contact />} />
           <Route
             path="/treks"
